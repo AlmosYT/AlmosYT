@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate C# related projects.
 - 🤔 I’m looking for help with WPF.
 - 💬 Ask me about anything.
-- 📫 How to reach me: Almos#0728 on Discord
+- 📫 How to reach me: Almos#0001 on Discord
 - 😄 Pronouns: He/Him
 
 
