@@ -3,5 +3,6 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=almosyt&theme=github-dark-blue&hide_border=true&date_format=j%2Fn%5B%2FY%5D)
 ---
-![https://wakatime.com/@Almos](https://wakatime.com/badge/user/70598513-ccb3-4d53-8dba-70af88d52384.svg?style=for-the-badge)
+
+[![wakatime](https://wakatime.com/badge/user/9e0a6cde-8182-4b53-8e8c-956ccbc1f5f9.svg)](https://wakatime.com/@9e0a6cde-8182-4b53-8e8c-956ccbc1f5f9)
 ![Profile Views](https://komarev.com/ghpvc/?username=almosyt6&label=Profile%20views&color=0e75b6&style=for-the-badge)
