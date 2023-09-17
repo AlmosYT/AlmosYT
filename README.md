@@ -7,5 +7,5 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,svelte,py,cs,mysql)](https://skillicons.dev)
 
-![https://wakatime.com/@Almos](https://wakatime.com/badge/user/70598513-ccb3-4d53-8dba-70af88d52384.svg?style=for-the-badge)
+![https://wakatime.com/@Almos](https://wakatime.com/badge/user/9e0a6cde-8182-4b53-8e8c-956ccbc1f5f9.svg?style=for-the-badge)
 ![Profile Views](https://komarev.com/ghpvc/?username=almosyt6&label=Profile%20views&color=0e75b6&style=for-the-badge)
