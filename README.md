@@ -6,7 +6,7 @@
 ---
 
 #### Things I've worked with:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,svelte,py,cs,sqlite,figma,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,svelte,py,cs,sqlite,figma,postman,discord,selenium)](https://skillicons.dev)
 
 ![https://wakatime.com/@Almos](https://wakatime.com/badge/user/9e0a6cde-8182-4b53-8e8c-956ccbc1f5f9.svg?style=for-the-badge)
 ![Profile Views](https://komarev.com/ghpvc/?username=almosyt6&label=Profile%20views&color=0e75b6&style=for-the-badge)
